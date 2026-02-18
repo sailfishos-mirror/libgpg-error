@@ -325,7 +325,6 @@ msgstr "Ogiltigt svar"
 msgid "No agent running"
 msgstr "Ingen agent kör"
 
-#| msgid "agent error"
 msgid "Agent error"
 msgstr "Agentfel"
 
@@ -1502,7 +1501,8 @@ msgstr "flaggfilen '%s': %s\n"
 
 #, c-format
 msgid "Note: ignoring option \"--%s\" due to global config\n"
-msgstr "Observera: ignorerar flaggan \"--%s\" på grund av global konfiguration\n"
+msgstr ""
+"Observera: ignorerar flaggan \"--%s\" på grund av global konfiguration\n"
 
 msgid "Please report bugs to <https://bugs.gnupg.org>.\n"
 msgstr ""
